@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Grupos</title>
+  <meta charset= "utf-8">
+  <style>
+    table{
+      width: 500px;
+      text-align: center;
+      caption-side: top;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 18px;
+      border-collapse: collapse;
+    }
+    .fila_pais{
+      background-color: lightblue;
+    }
+    .alumnos{
+      background-color: lightseagreen;
+    }
+    h1{
+      text-align: center;
+      animation:cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    }
+  </style>
+</head>
+<body>
+  <h1>Grupos de clase 1DM3</h1>
+  <table border="1" align="center">
+    <tr class="fila_pais">
+      <td><strong>Ciudad del Vaticano</strong></td><td><strong>Bután</strong></td>
+    </tr>
+    <tr class="alumnos">
+      <td>Julen Altuna<br>Alex Cildoz<br>Mikel Soroa<br>Ander Yeregui</td><td>Iñigo Amundarain<br>Javier Garcés<br>Alex Giralt<br>Oier Sánchez</td>
+    </tr>
+    <tr class="fila_pais">
+      <td><strong>Mongolia</strong></td><td><strong>Brasil</strong></td>
+    </tr>
+    <tr class="alumnos">
+      <td>Iraitz Hernández<br>Asier Pescador<br>David Ruiz<br>Adrian Sesé</td><td>Gorka Anza<br>Josu Artano<br>Egoitz Segura<br>Mikel Uriarte</td>
+    </tr>
+    <tr class="fila_pais">
+      <td ><strong>Congo</strong></td><td><strong>Grecia</strong></td>
+    </tr>
+    <tr class="alumnos">
+      <td>Leire Domínguez<br>Pablo Otegui<br>Julen Minguez<br>Erik Sáez<br>Markel Zamora</td><td>Oihana Espada<br>Iker Leñena<br>Aitor Martin<br>Eneko Zabala</td>
+    </tr>
+  </table>
+</body>
