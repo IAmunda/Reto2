@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>problem10</title>
+  <meta charset="UTF-8">
+</head>
+<body>
+<h2>Presione la imagen para pasar a la siguiente.</h2>
+<a href="pagina2.html"><img src="foto1.jpg" alt="Pintura Bizarra"> </a>
+</body>
+</html>

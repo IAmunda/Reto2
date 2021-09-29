@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>problem13</title>
+<meta charset = "UTF-8">
+</head>
+<body>
+<h1>Noticias de Gipuzkoa</h1>
+<a href="problem14_1#otropuntodechampions">Otro punto de Champions</a><br>
+<a href="problem14_1#contagiosenminimo">Contagios en mínimo</a><br>
+<a href="problem14_1#incendioenamara">Incendio en Amara</a><br>
+<a href="problem14_1#llegaelfrio">Llega el frío</a><br>
+</body>
+</html>

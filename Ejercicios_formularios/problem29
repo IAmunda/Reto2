@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>problem29</title>
+  <meta charset="UTF-8">
+</head>
+<body>
+  <form  action="registrardatos.php" method="post">
+    Ingrese su nombre:
+    <input type="text" name="nombre" size="15">
+    <br>
+    Ingrese su correo:
+    <input type="text" name="correo" size="30">
+    <br>
+    Ingrese su DNI:
+    <input type="text" name="dni" size="9">
+    <br>
+    Ingrese su CV:
+    <br>
+    <textarea name="cv" rows="20" cols="40"></textarea>
+    <br>
+    <input type="submit" value="Enviar">
+  </form>
+</body>
+</html>

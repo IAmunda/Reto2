@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Impreso_justificante_por_falta</title>
+<meta charset = "UTF-8">
+<style>
+body{
+  background-color: #0000000;
+  font: 14px Arial, Tahoma;
+  padding: 60px;
+  border: 1px solid;
+}
+table{
+  text-align: center;
+  vertical-align: center;
+}
+</style>
+</head>
+<body>
+<table border="1">
+<tr>
+  <td rowspan="2"><img src ="https://www.euskadi.eus/contenidos/j_gastronomia/0000001930_j4_rec_turismo/es_1930/images/Cebanc-Logo-H.jpg"</td><td rowspan="2">JUSTIFICANTE POR FALTA DE<br>ASISTENCIA / EZ ETORTZEA<br>AZALTZEKO PROGRAMA</td><td>Impreso : DB-06-<br>13</td><td>Rev.:3</td>
+</tr>
+<tr>
+  <td colspan="2">Hoja Nº 1 de 1</td>
+</tr>
+</table>
+<br>
+<p>El alumno/a..............................................................................................................<em>Ikasleak</em></p>
+<p>del Ciclo..................................................................................................................<em>Ziklokoa</em></p>
+<p>del curso...................<em>ikasturtekoa</em><br>faltó el/los siguiente/s día/s:<br><em>ez zen hurrengo klasetara etorri</em></p>
+<table border="1">
+  <tr>
+    <td></td><td>Día/Mes/Año<br><em>Urte/Hil/Egun</em></td><td>1º Sesión/<br><em>1. saioa</em></td><td>2º Sesión/<br><em>2. saioa</em></td><td>3º Sesión/<br><em>3. saioa</em></td><td>4º Sesión/<br><em>4. saioa</em></td><td>5º Sesión/<br><em>5. saioa</em></td><td>6º Sesión/<br><em>6. saioa</em></td><td>7º Sesión/<br><em>7. saioa</em></td>
+  </tr>
+  <tr>
+    <td rowspan="2">Lunes/<br><em>Astelehena</em></td><td rowspan="2"</td><td><strong>Módulo/<br>Modulua</strong></td><td><strong>Módulo/<br>Modulua</strong></td><td><strong>Módulo/<br>Modulua</strong></td><td><strong>Módulo/<br>Modulua</strong></td><td><strong>Módulo/<br>Modulua</strong></td><td><strong>Módulo/<br>Modulua</strong></td><td><strong>Módulo/<br>Modulua</strong></td>
+  </tr>
+  <tr>
+    <td><br><br></td><td></td><td></td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td rowspan="2">Martes/<br><em>Asteartea</em></td><td rowspan="2"</td><td><strong>Módulo/<br>Modulua</strong></td><td><strong>Módulo/<br>Modulua</strong></td><td><strong>Módulo/<br>Modulua</strong></td><td><strong>Módulo/<br>Modulua</strong></td><td><strong>Módulo/<br>Modulua</strong></td><td><strong>Módulo/<br>Modulua</strong></td><td><strong>Módulo/<br>Modulua</strong></td>
+  </tr>
+  <tr>
+    <td><br><br></td><td></td><td></td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td rowspan="2">Miércoles/<br><em>Asteazkena</em></td><td rowspan="2"</td><td><strong>Módulo/<br>Modulua</strong></td><td><strong>Módulo/<br>Modulua</strong></td><td><strong>Módulo/<br>Modulua</strong></td><td><strong>Módulo/<br>Modulua</strong></td><td><strong>Módulo/<br>Modulua</strong></td><td><strong>Módulo/<br>Modulua</strong></td><td><strong>Módulo/<br>Modulua</strong></td>
+  </tr>
+  <tr>
+    <td><br><br></td><td></td><td></td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td rowspan="2">Jueves/<br><em>Osteguna</em></td><td rowspan="2"</td><td><strong>Módulo/<br>Modulua</strong></td><td><strong>Módulo/<br>Modulua</strong></td><td><strong>Módulo/<br>Modulua</strong></td><td><strong>Módulo/<br>Modulua</strong></td><td><strong>Módulo/<br>Modulua</strong></td><td><strong>Módulo/<br>Modulua</strong></td><td><strong>Módulo/<br>Modulua</strong></td>
+  </tr>
+  <tr>
+    <td><br><br></td><td></td><td></td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td rowspan="2">Viernes/<br><em>Ostirala</em></td><td rowspan="2"</td><td><strong>Módulo/<br>Modulua</strong></td><td><strong>Módulo/<br>Modulua</strong></td><td><strong>Módulo/<br>Modulua</strong></td><td><strong>Módulo/<br>Modulua</strong></td><td><strong>Módulo/<br>Modulua</strong></td><td><strong>Módulo/<br>Modulua</strong></td><td><strong>Módulo/<br>Modulua</strong></td>
+  </tr>
+  <tr>
+    <td><br><br></td><td></td><td></td><td></td><td></td><td></td><td></td>
+  </tr>
+</table>
+<p>Por las siguientes causas.<br><em>ondorongo arrazoiak direla eta.</em></p>
+<p align= center><strong>ASUNTO/<em>GAIA:</em></strong></p>
+<br><br><br><br>
+<p align = right>En Donostia, a ............. de ............................................... de .........<br><br><em>Donostian.....................(e)ko...........................................-ren................................an</em></p>
+<br>
+<p align = center><strong>FIRMADO/IZENPETUTA</strong></p>
+<p align = center>(Padres, Tutor ó Alumno/<em>Gurasoak, Tutorea ala Ikaslea)</em></p>

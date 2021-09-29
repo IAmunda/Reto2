@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>problem42</title>
+  <meta charset="utf-8">
+</head>
+<body>
+  <form method="registrardatos.php" method="post">
+    Ingrese su nombre:
+    <input type="text" name="nombre" disabled>
+    <br>
+    Ingrese su contraseña:
+    <input type="password" name="contraseña" disabled>
+    <br>
+    Deje aquí sus comentarios:<br>
+    <textarea cols="20" rows="5" name="comentarios" disabled></textarea>
+    <br>
+    Elija la opinión que tiene sobre la página:
+    <select name="opinion" disabled>
+      <option value="bueno">Bueno</option>
+      <option value="malo">Malo</option>
+    </select>
+    <br>
+    <input type="submit" value="Enviar" disabled>
+  </form>
+</body>
+</html>

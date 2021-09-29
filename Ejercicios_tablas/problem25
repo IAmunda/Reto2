@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>problem25</title>
+<meta charset = "UTF-8">
+</head>
+<body>
+<table border = "1">
+  <tr>
+    <td colspan="5">Facturación en los últimos tres meses</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Recuros</td><td>Sillas</td><td>1.000</td><td>1.200</td><td>1.500</td>
+  </tr>
+  <tr>
+    <td>Armarios</td><td>2.500</td><td>3.100</td><td>1.400</td>
+</table>
+<br>
+<!--
+<table border = "1">
+  <tr>
+    <td colspan="5">Facturación en los últimos tres meses</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Recuros</td><td>Sillas</td><td>1.000</td><td>1.200</td><td>1.500</td>
+  </tr>
+  <tr>
+    <td>Armarios</td><td>2.500</td><td>3.100</td><td>1.400</td>
+-->

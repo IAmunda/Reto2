@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>problem28</title>
+  <meta charset="UTF-8">
+</head>
+<body>
+<form action="registrardatos.php" method="post">
+  Ingrese su correo electrónico:
+  <input type="text" name="correo" size="40">
+  <br>
+  Ingrese contraseña:
+  <input type="password" name="clave1" size="20">
+  <br>
+  Repita la contraseña:
+  <input type="password" name="clave2" size="20">
+  <br>
+  <input type="submit" value="Enviar">
+  <input type="reset" value="Borrar">
+</form>
+</body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>problem18</title>
+  <meta charset = "UTF-8">
+</head>
+<body>
+<h2>Lenguajes de programación</h2>
+<ol>
+  <li>Java
+    <ul>
+      <li><a href="https://www.java.com/es/">Java</a></li>
+      <li><a href="https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n)">Wikipedia</a></li>
+      <li><a href="https://www.oracle.com/es/java/technologies/">Oracle</a></li>
+    </ul>
+  </li>
+  <li>C
+    <ul>
+      <li><a href="https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n)">Wikipedia</a></li>
+      <li><a href="https://openwebinars.net/blog/que-es-c/">OpenWebinars</a></li>
+      <li><a href="https://informatica.uv.es/estguia/ATD/apuntes/laboratorio/Lenguaje-C.pdf">Universidad de Valencia</a></li>
+    </ul>
+  </li>
+  <li>Python
+    <ul>
+      <li><a href="https://www.python.org/">Python</a></li>
+      <li><a href="https://es.wikipedia.org/wiki/Python">Wikipedia</a></li>
+      <li><a href="https://www.learnpython.org/es/">Learn Python</a></li>
+    </ul>
+  </li>
+</ol>
+</body>
+</html>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>problem44</title>
+  <meta charset="utf-8">
+</head>
+<body>
+  <form action="registrardatos.php" method="post">
+    Ingrese su nombre y apellidos:
+    <input type="text" name="nom_ape" size="40" readonly value="Iñigo Amundarain Yarza">
+    <br>
+    Ingrese su contraseña:
+    <input type="password" name="contraseña" size="12" readonly value="minijuegos">
+    <br>
+    Ingrese comentarios:
+    <textarea rows="10" cols="50" name="coments" readonly>Vaya mierda de comentarios crack</textarea>
+    <br>
+    <input type="submit" value="Enviar">
+  </form>
+</body>
+</html>

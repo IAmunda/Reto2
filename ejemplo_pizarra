@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ejemplo de la pizarra</title>
+<meta charset = "UTF-8">
+</head>
+<body>
+  <table border="1">
+    <tr>
+      <td colspan="3">Julen</td><td colspan="2">Manolo</td>
+    </tr>
+    <tr>
+      <td>Francisco</td><td colspan ="2">Xabier</td><td>Manuela</td><td>Jokin</td>
+    </tr>
+    <tr>
+      <td>Iñigo</td><td rowspan="2">Mikel</td><td colspan="3">Javier</td>
+    </tr>
+    <tr>
+      <td>Teresa</td><td>Urko</td><td rowspan="3" colspan="2">Pedro</td>
+    </tr>
+    <tr>
+      <td rowspan="2" colspan="2">Guillermo</td><td>Lucía</td>
+    </tr>
+    <tr>
+      <td>Julia</td>
+    </tr>
+  </table>
+</body>
+</html>

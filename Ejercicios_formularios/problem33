@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>problem33</title>
+</head>
+<body>
+  <form class="
+  " action="registrardatos.php" method="post">
+  Seleccione uno o varios correos (Presione Ctrl para seleccionar más de uno)<br>
+  <select name="mail[]" size="4" multiple>
+    <option value="tremendoano@gmail.com">tremendoano@gmail.com</option>
+    <option value="erizopitudo@gmail.com">erizopitudo@gmail.com</option>
+    <option value="pacoelfontanero@gmail.com">pacoelfontanero@gmail.com</option>
+    <option value="gargantaprofunda@gmail.com">gargantaprofunda@gmail.com</option>
+  </select>
+  <br>
+  <input type="submit" value="Enviar">
+  </form>
+</body>
+</html>

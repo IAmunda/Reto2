@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>problem13</title>
+<meta charset = "UTF-8">
+</head>
+<body>
+<h1>Noticias de Gipuzkoa</h1>
+<a href="#otropuntodechampions">Otro punto de Champions</a><br>
+<a href="#contagiosenminimo">Contagios en mínimo</a><br>
+<a href="#incendioenamara">Incendio en Amara</a><br>
+<a href="#llegaelfrio">Llega el frío</a><br>
+<a name ="otropuntodechampions"></a>
+<h2>Otro punto de Champions</h2>
+<p>
+La Real consigue sacar un punto en un partido reñido frente al Sevilla en Anoeta.<br>
+Los de Imanol merecieron más.
+</p>
+<a name ="contagiosenminimo"></a>
+<h2>Contagios en mínimo</h2>
+<p>
+La evolución de la pandemia se consolida también en la presión hospitalaria, con menos ingresos en planta y 45 pacientes en las UCI.
+</p>
+<a name ="incendioenamara"></a>
+<h2>Incendio en Amara</h2>
+<p>
+Una disputa por un sofá desemboca en un incendio masivo en la calle Felipe IV.
+<a name="llegaelfrio"></a>
+<h2>Llega el frío</h2>
+<p>
+La entrada del otoño trae consigo el frío a Gipuzkoa.
+</p>
+</body>
+</html>

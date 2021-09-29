@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>problem34</title>
+  <meta charset="utf-8">
+</head>
+<body>
+  <form action="registrardatos.php" method="post">
+    Seleccione un país de América o de Europa:
+    <select name="pais">
+      <optgroup label="Europa">
+        <option value="1">España</option>
+        <option value="2">Francia</option>
+        <option value="3">Portugal</option>
+        <option value="4">Italia</option>
+      </optgroup>
+      <optgroup label="América">
+        <option value="5">México</option>
+        <option value="6">Estados Unidos</option>
+        <option value="7">Canadá</option>
+        <option value="8">Cuba</option>
+      </optgroup>
+    </select>
+    <br>
+    <input type="submit" value="Enviar">
+  </form>
+</body>

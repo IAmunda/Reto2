@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>problem32</title>
+  <meta charset="utf-8">
+</head>
+<body>
+  <form action="registrardatos.php" method="post">
+    Ingrese su nombre:
+    <input type="text" name="nombre" size="15">
+    <br>
+    Valora tu estancia:<br>
+    <select name="experiencia">
+      <option value="1">Excelente</option>
+      <option value="2">Muy Bueno</option>
+      <option value="3">Bueno</option>
+      <option value="4">Regular</option>
+      <option value="5">Malo</option>
+    </select>
+    <br>
+    <input type="submit" value="Enviar">
+  </form>
+</body>
+</html>

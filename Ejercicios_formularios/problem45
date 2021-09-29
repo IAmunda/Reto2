@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>problem39</title>
+  <meta charset="utf-8">
+</head>
+<body>
+<form action="mailto:pizzasya@gmail.com?subject=pedido de pizza" method="post" enctype="text/plain">
+  <fieldset>
+      <legend>Seleccione su pizza y la cantidad</legend>
+      Pizza:
+      <select name="pizza 1">
+        <option value="1">Dolce</option>
+        <option value="2">Formaggio</option>
+        <option value="3">Bambina</option>
+      </select>
+      Cantidad:
+      <select name="cantidad1">
+        <option value="0">0</option>
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+      </select>
+      <br>
+      Pizza:
+      <select name="pizza 1">
+        <option value="1">Dolce</option>
+        <option value="2">Formaggio</option>
+        <option value="3">Bambina</option>
+      </select>
+      Cantidad:
+      <select name="cantidad1">
+        <option value="0">0</option>
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+      </select>
+      <br>
+      Pizza:
+      <select name="pizza 1">
+        <option value="1">Dolce</option>
+        <option value="2">Formaggio</option>
+        <option value="3">Bambina</option>
+      </select>
+      Cantidad:
+      <select name="cantidad1">
+        <option value="0">0</option>
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+      </select>
+    </fieldset>
+    <fieldset>
+      <legend>Datos personales</legend>
+      Nombre:
+      <input type="text" name="nombre" size="12">
+      <br>
+      Domicilio:
+      <input type="text" name="direccion" size="20">
+      <br>
+      Teléfono:
+      <input type="text" name="tfno" size="9">
+    </fieldset>
+    <input type="submit" value="Enviar">
+  </form>
+</body>
+</html>

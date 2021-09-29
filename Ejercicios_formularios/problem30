@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>problem30</title>
+  <meta charset="utf-8">
+</head>
+<body>
+  <form action="registrardatos.php" method="post">
+    Ingresar correo electrónico:
+    <input type="text" name="correo" size="30">
+    <br>
+    Ingresar contraseña:
+    <input type="password" name="clave" size="15">
+    <br>
+    Seleccione las películas que ha visto:
+    <br>
+    <input type="checkbox" name ="titanic"><strong>Titanic</strong><br>
+    <input type="checkbox" name ="django"><strong>Django</strong><br>
+    <input type="checkbox" name ="interstellar"><strong>Interstellar</strong><br>
+    <input type="checkbox" name ="shrek"><strong>Shrek</strong><br>
+    <input type="submit" value="Enviar">
+  </form>
+</body>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>problem22</title>
+<meta charset = "UTF-8">
+</head>
+<body>
+  <table border="1">
+    <tr>
+      <td rowspan="3">España</td><td>El País</td><td><a href="https://elpais.com/">elpais.com</a></td>
+    </tr>
+    <tr>
+      <td>El Mundo</td><td><a href="https://www.elmundo.es/">/www.elmundo.es</a></td>
+    </tr>
+    <tr>
+      <td>Público</td><td><a href="https://www.publico.es/">www.publico.es</a></td>
+      <tr>
+        <td rowspan="2">Argentina</td><td>Clarín</td><td><a href="https://www.clarin.com/">www.clarin.com</a></td>
+      </tr>
+      <tr>
+        <td>La Nación</td><td><a href="https://www.lanacion.com.ar/">www.lanacion.com.ar</a></td>
+      </tr>
+      <tr>
+        <td rowspan ="2">Francia</td><td>Le Parisien</td><td><a href="http://www.leparisien.fr/">www.leparisien.fr</a></td>
+      </tr>
+      <tr>
+        <td>Le Figaro</td><td><a href="https://www.lefigaro.fr/">www.lefigaro.fr</a></td>
+      </tr>
+  </table>
+</body>
+</html>

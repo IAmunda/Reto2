@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>problem20</title>
+<meta charset = "UTF-8">
+</head>
+<body>
+<table border = "1">
+<tr>
+  <th>Nombre del empleado</th><th>Sueldo Bruto</th>
+  </tr>
+  <tr>
+    <td>Paco</td><td>1.500</td>
+  </tr>
+  <tr>
+    <td>Juan</td><td>1.825</td>
+  </tr>
+  <tr>
+    <td>María</td><td>2.120</td>
+  </tr>
+  <tr>
+    <td>Julen</td><td>1.200</td>
+  </tr>
+  <tr>
+    <td>Ainhoa</td><td>1.375</td>
+  </tr>
+  </table>
+</body>
+</html>

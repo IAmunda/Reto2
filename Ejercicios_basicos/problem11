@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>problem11</title>
+  <meta charset="UTF-8">
+</head>
+<body>
+<h1>Apertura del mismo enlace en una pestaña y en el mismo navegador</h1>
+<p>
+<a href="https://www.marca.com/" target = "_blank">Diario MARCA (pestaña)</a>
+<br>
+<a href="https://www.marca.com/">Diario MARCA (navegador)</a>
+</p>
+</body>
+</html>

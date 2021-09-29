@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Horario CEBANC</title>
+  <meta charset = "UTF-8">
+  <style>
+  body{
+    padding: 50px;
+    font: 16px, Arial, Tahoma;
+  }
+  </style>
+</head>
+<body>
+  <table>
+    <tr>
+      <td><img src= "https://www.euskadi.eus/contenidos/j_gastronomia/0000001930_j4_rec_turismo/es_1930/images/Cebanc-Logo-H.jpg" alt="Logo CEBANC"></td><td></td><td>Grupo/Taldea</td>
+    </tr>
+    <tr>
+      <td></td><td>Curso escolar 2021/2022 Ikasturtea</td>
+    </tr>
+  </table>
+  <br>
+  <br>
+  <br>
+  <h3>1DM3</h3>
+  <table border="1">
+    <tr>
+      <td rowspan="2"></td><td colspan="6">................................Mañana/Goizez................................</td>
+    </tr>
+    <tr>
+      <td>8:20<br>9:15</td><td>9:20<br>10:15</td><td>10:20<br>11:15</td><td>11:40<br>12:35<td>12:40<br>13:35</td><td>13:40<br>14:35</td>
+    </tr>
+    <tr>
+      <td>Lunes<br>Astelehena</td><td>Edurne-<br>Progr-<br>AP/109</td><td>Edurne-<br>Progr-<br>AP/109</td><td>PatxiU-<br>Sis Inf-<br>AP/109</td><td>PatxiU-<br>Sis Inf-<br>AP/109</td><td>PatxiU-<br>LMSGI-<br>AP/109</td><td>Antxon-<br>FOL-<br>AP/109</td>
+    </tr>
+    <tr>
+      <td>Martes<br>Asteartea</td><td>JonI-<br>Inglés-<br>AP/109</td><td>PatxiU-<br>SisInf-<br>AP/109</td><td>JavierS-<br>BdD-<br>AP/109</td><td>Edurne-<br>Progr-<br>AP/109</td><td>Edurne-<br>Progr-<br>AP/109</td><td>Edurne-<br>EdD-<br>AP/109</td>
+    </tr>
+    <tr>
+      <td>Miércoles<br>Asteazkena</td><td>JavierS-<br>BdD-<br>AP/109</td><td>JavierS-<br>BdD-<br>AP/109</td><td>Antxon-<br>FOL-<br>AP/109</td><td>PatxiU-<br>SisInf-<br>AP/109</td><td>Edurne-<br>Progr-<br>AP/109</td><td>Edurne-<br>EdD-<br>AP/109</td>
+    </tr>
+    <tr>
+      <td>Jueves<br>Osteguna</td><td>PatxiU-<br>LMSGI-<br>AP/109</td><td>PatxiU-<br>SisInf-<br>AP/109</td><td>Edurne-<br>Progr-<br>AP/109</td><td>JavierS-<br>BdD-<br>AP/109</td><td>JavierS-<br>BdD-<br>AP/109</td><td>Edurne-<br>EdD-<br>AP/109</td>
+    </tr>
+    <tr>
+      <td>Viernes<br>Ostirala</td><td>PatxiU-<br>LMSGI-<br>AP/109</td><td>PatxiU-<br>LMSGI-<br>AP/109</td><td>Edurne-<br>Progr-<br>AP/109</td><td>Edurne-<br>Progr-<br>AP/109</td><td>JavierS-<br>BdD-<br>AP/109</td><td>Antxon-<br>FOL-<br>AP/109</td>
+    </tr>
+    <tr>
+      <td></td><td>8:20<br>9:15</td><td>9:20<br>10:15</td><td>10:20<br>11:15</td><td>11:40<br>12:35<td>12:40<br>13:35</td><td>13:40<br>14:35</td>
+    </tr>
+  </table>
+</body>
+</html>

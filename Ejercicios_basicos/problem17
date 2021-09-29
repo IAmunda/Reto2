@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>problem17></title>
+<meta charset = "UTF-8">
+</head>
+<body>
+<h2>Lista de definiciones de informática </h2>
+<dl>
+<dt>
+<strong>Programación</strong>
+</dt>
+<dd>
+Es el proceso utilizado para idear y ordenar las acciones necesarias para realizar un proyecto. En la actualidad, la noción de programación se encuentra muy asociada a la creación de aplicaciones de informática y videojuegos.
+</dd>
+<dt>
+<strong>Entornos de desarrollo</strong>
+</dt>
+<dd>
+Es una aplicación informática que proporciona servicios integrales para facilitarle al desarrollador o programador el desarrollo de software.
+</dd>
+<dt>
+<strong>Lenguaje de marcas</strong>
+</dt>
+<dd>
+Es una forma de codificar un documento que, junto con el texto, incorpora etiquetas o marcas que contienen información adicional acerca de la estructura del texto o su presentación. El lenguaje de marcas más extendido es el HTML, fundamento del World Wide Web.
+</dd>
+</dl>
+</body>
+</html>

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>problem35</title>
+  <meta charset="utf-8">
+</head>
+<body>
+  <form action="registrardatos.php" method="post">
+    Ingrese su nombre de usuario:
+    <input type="text" name="usurario" size="12">
+    <br>
+    Ingrese su contraseña:
+    <input type="password" name="clave" size="12">
+    <br>
+    <button type="submit">Ingreso al<br>sitio</button>
+  </form>
+</body>
+</html>
