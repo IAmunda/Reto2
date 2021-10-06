@@ -34,7 +34,7 @@ border:none;
 #menu{
 margin-bottom:.5em;
 border-bottom:1px solid #004c99;
-background: url(fondo_menu.gif);
+background-image: url(fondo_menu.gif);
 }
 #contenido{width:77%;padding:0}
 #contenido #principal{width:73%}
@@ -53,7 +53,7 @@ padding:.5em 0;margin-top:1em;border-top:1px solid #c5c5c5;border-bottom:1px sol
   padding: .2em;
 }
 #cabecera h2{
-  background: url(logo.gif);
+  background-image: url(logo.gif);
 }
 #contenido #principal .articulo{margin-bottom:1em}
 #contenido #principal .articulo img{margin:.5em}
