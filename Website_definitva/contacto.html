@@ -1,0 +1,79 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Contacto</title>
+  <meta charset="UTF-8">
+  <style type="text/css">
+  h2{
+    text-decoration: underline;
+    text-align: center;
+  }
+  body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: lightyellow;
+  }
+  form{
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+  }
+  label.nombre{
+    margin-right:5px;
+    float: left;
+  }
+  label.apellido1{
+    margin-right:1px;
+  }
+  div.apellido{
+    margin-top:1px;
+  }
+  div.nombre1{
+    margin-top:20px;
+    float: left;
+  }
+  .boton{
+    background-color: #d3d3d3;
+    font-weight:bold;
+  }
+  </style>
+</head>
+<body>
+  <h2>CONTACTO</h2>
+<form action="registrardatos.php" method="post">
+  <div class="nombre1">
+  <label class="nombre">Nombre:</label>
+  <input  type="text" name="nombre" size="20">
+</div>
+  <br>
+  <div class="apellido">
+  <label class="apellido1">Apellido:</label>
+  <input class="apellido"type="text" name="Apellido" size="20">
+ </div>
+  <br>
+  Correo electronico:
+  <input type="text" name="Correo electronico" size="20">
+  <br>
+  <p>
+  </p>
+  Seleccione su pais:
+  <select name="pais">
+    <option value="1">Horario de Clase</option>
+    <option value="2">Listado de Clase</option>
+    <option value="3">Grupos de Clase</option>
+    <option value="4">Fechas relevantes</option>
+    <option value="5"selected>Selecciones una opción</option>
+  </select>
+  <p>
+  </p>
+  Explique que que información necesita:<br>
+  <textarea name="comentarios" rows="5" cols="60"></textarea>
+  <br>
+  <p>
+  Le responderemos lo antes posible.
+  </p>
+  <input class="boton" type="submit" value="Enviar">
+</form>
+  <br>
+</body>
+</html>
